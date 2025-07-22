@@ -1074,3 +1074,8 @@
 94.26.90.82:3389
 94.26.90.84:3389
 94.26.90.91:3389
+
+# Reference: https://censys.com/advisory/cve-2025-53770
+# Reference: https://app.validin.com/detail?find=alikullab1&type=raw&ref_id=6c3a498d06a
+
+172.174.82.132:3389
