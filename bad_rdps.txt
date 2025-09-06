@@ -6503,3 +6503,7 @@
 # Reference: CERT_CN-IP=mich-xm
 
 89.46.65.19:3389
+
+# Reference: CERT_CN-IP=68a4ab25f8a27d7
+
+193.149.185.126:3389
